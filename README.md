@@ -5,8 +5,7 @@ Saya Ririn Marchelina dengan NIM 2303662 mengerjakan Tugas Praktikum 8 dalam mat
 ---
 Diagram
 ---
-![diagram mvc](https://github.com/user-attachments/assets/547e7bc1-9c68-4707-8531-df310056e8ac)
-
+![diagram mvc](https://github.com/user-attachments/assets/1bb08656-9cfb-47ba-94b8-47abcf4f1801)
 
 ---
 Alur Program
