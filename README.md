@@ -54,7 +54,7 @@ Dokumentasi
 ---
 1. Beranda
 ---
-![Screenshot 2025-04-19 184327](https://github.com/user-attachments/assets/29eba61f-f0c2-49f3-ac24-522ea2bd53a1)
+![Screenshot 2025-04-30 133107](https://github.com/user-attachments/assets/de80b98a-a1a0-420b-8da8-d996cdf5c17c)
 ---
 2. Mahasiswa
 ---
